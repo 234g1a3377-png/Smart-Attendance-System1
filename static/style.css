@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.video-frame {
+    display: inline-block;
+    border: 5px solid #2c3e50;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    padding: 10px;
+}
+
+img {
+    width: 720px;
+    height: 560px;
+}
